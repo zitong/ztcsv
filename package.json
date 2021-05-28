@@ -1,0 +1,24 @@
+{
+  "name": "ztcsv",
+  "version": "1.0.0",
+  "description": "csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zitong/ztcsv.git"
+  },
+  "keywords": [
+    "csv",
+    "ts",
+    "typescript"
+  ],
+  "author": "zitongcheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zitong/ztcsv/issues"
+  },
+  "homepage": "https://github.com/zitong/ztcsv#readme"
+}
